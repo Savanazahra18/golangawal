@@ -36,4 +36,4 @@ func indexHandler(w http.ResponseWriter, r *http.Request) {
 		</body>
 		</html>
 	`)
-}
+}.
