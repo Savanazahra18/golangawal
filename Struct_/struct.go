@@ -26,4 +26,4 @@ func main() {
 	message := GreetMahasiswa(mahasiswa)
 	fmt.Println(message)
 }
-.
+
